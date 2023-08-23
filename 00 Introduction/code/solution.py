@@ -2,7 +2,7 @@ import numpy as np
 import cv2
 
 # O1: Load image, disply and write image
-file = "..\skeleton\img.png"
+file = "..\code\img.png"
 image = cv2.imread(file)
 cv2.imshow('Image', image)
 
