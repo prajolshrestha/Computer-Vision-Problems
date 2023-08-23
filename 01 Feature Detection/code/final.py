@@ -8,7 +8,7 @@ import cv2
 def main():
 
     # Initial Processing
-    input_image = cv2.imread('blox.jpg') # Read image
+    input_image = cv2.imread('..\data\blox.jpg') # Read image
     input_gray = cv2.cvtColor(input_image, cv2.COLOR_BGR2GRAY) # Convert to gray
     input_gray = (input_gray - np.min(input_gray)) / (np.max(input_gray) - np.min(input_gray)) # Normalize
     input_gray = input_gray.astype(np.float32) # Convert to float 32
