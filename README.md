@@ -1,9 +1,13 @@
 # Computer-Vision-Exercise
 
-00. Introduction to python (venv) and OpenCv
-02. Feature Detection
-   - Edge, corner
-03. Panoroma Stitching
-04. Structure from Motion
-05. Stereo Vision
-06. Optical Flow
+0. Introduction to python and OpenCv
+   - Understand Virtual Environment and basics of Image Processing
+1. Feature Detection
+   - Edge, corner detection using Harris Corner Detection
+2. Panoroma Stitching
+   -
+3. Structure from Motion
+   -
+4. Stereo Vision
+   -
+5. Optical Flow
