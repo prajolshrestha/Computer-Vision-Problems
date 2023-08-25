@@ -5,7 +5,7 @@
 1. Feature Detection
    - Edge, corner detection using Harris Corner Detection
 2. Panoroma Stitching
-   -
+   - Feature Detection, Feature Matching, Homography, RANSAC, Stitching
 3. Structure from Motion
    -
 4. Stereo Vision
