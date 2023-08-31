@@ -7,7 +7,8 @@
 2. Panoroma Stitching
    - Feature Detection, Feature Matching, Homography, RANSAC, Stitching
 3. Structure from Motion
-   -
+   - Compute 3D scene structure from sequence of frames
 4. Stereo Vision
-   -
+   - Compute disparity maps from two images
 5. Optical Flow
+   - Compute Motion Field using Lucas Kanade Algorithm
