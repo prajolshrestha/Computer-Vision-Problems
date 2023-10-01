@@ -1,4 +1,4 @@
-# Computer-Vision-Exercise
+# Computer-Vision-Problems
 
 0. Introduction to Python and OpenCV
    - Understand the Virtual Environment
